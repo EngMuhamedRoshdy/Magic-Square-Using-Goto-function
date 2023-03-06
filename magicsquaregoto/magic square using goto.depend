@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678054224 source:e:\courses\into to c programming\applications\magic square using goto\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
